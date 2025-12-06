@@ -1,8 +1,0 @@
-version: 1.0.0
-files:
-  - url: yt-downloader-setup.exe
-    sha512: UmBPXMwyVpV4IxDwfrXB2NhFVb311B+fYKHKhsfj2SugYOUNcW7N9fMJt/ndwj2Ly2ILUeoUYNn8vgCJfpt1YQ==
-    size: 148549988
-path: yt-downloader-setup.exe
-sha512: UmBPXMwyVpV4IxDwfrXB2NhFVb311B+fYKHKhsfj2SugYOUNcW7N9fMJt/ndwj2Ly2ILUeoUYNn8vgCJfpt1YQ==
-releaseDate: '2025-12-06T07:39:30.800Z'
